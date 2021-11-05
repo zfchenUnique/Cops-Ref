@@ -24,8 +24,6 @@ Please refer to [our paper](http://www.visionlab.cs.hku.hk/publications/cops-Ref
 ### Dataset
 We provide the annotation of the dataset at [Google Drive](https://drive.google.com/file/d/1bGqj_OweX2mawE387F7I9B4ZqDDSWBs0/view?usp=sharing). Please read [this](https://drive.google.com/file/d/1bQ3l18AqjqV7JXNdFz0QFiXSbqoetEyg/view?usp=sharing) for details of the annotation.
 
-### Model
-Baselines are coming soon.
 
 ### Citing Cops-Ref
 
