@@ -22,7 +22,7 @@ Please refer to [our paper](http://www.visionlab.cs.hku.hk/publications/cops-Ref
 
 
 ### Dataset
-We provide the annotation of the dataset at [Google Drive](https://drive.google.com/file/d/1bGqj_OweX2mawE387F7I9B4ZqDDSWBs0/view?usp=sharing). Please read [this](https://drive.google.com/file/d/1bQ3l18AqjqV7JXNdFz0QFiXSbqoetEyg/view?usp=sharing) for details of the annotation.
+We provide the annotation of the dataset at [OneDrive](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/u3004417_connect_hku_hk/EqZgLlaPA_lJvdQHX45j4oYB0ZFr84kfJhW-4J3IrgTKIg?e=SeEhmZ). Please read [this](https://connecthkuhk-my.sharepoint.com/:t:/g/personal/u3004417_connect_hku_hk/EZBGefWVzIJOp9kvLDj8N90BGAO_ZomZkEXSiMXbOM96xw?e=1rQyJb) for details of the annotation.
 
 
 ### Citing Cops-Ref
