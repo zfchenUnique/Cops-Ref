@@ -30,7 +30,7 @@ We provide the annotation of the dataset at [OneDrive](https://connecthkuhk-my.s
 If you find this repo useful in your research, please consider citing:
 
     @inroceedings{Chen_2020_CVPR,
-    author = {Chen, Zhenfang and Wang, Peng and Ma, Lin and Wong, Kwan-Yee K. and Wu, Qi},
+    author = {Chen, Zhenfang and Wang, Peng and Ma, Lin and Wong, Kwan-Yee~K. and Wu, Qi},
     title = {Cops-Ref: A New Dataset and Task on Compositional Referring Expression Comprehension},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     month = {June},
